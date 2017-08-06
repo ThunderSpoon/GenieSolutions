@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenieSolutionsFramework", "GenieSolutionsFramework\GenieSolutionsFramework.csproj", "{0F0F9D31-7B7D-45DD-9796-121EACAC0427}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchFeatureTest", "SearchFeatureTest\SearchFeatureTest.csproj", "{7F5C5A76-28E7-41EF-BFA7-C5C69DAE88C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F0F9D31-7B7D-45DD-9796-121EACAC0427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F0F9D31-7B7D-45DD-9796-121EACAC0427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F0F9D31-7B7D-45DD-9796-121EACAC0427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F0F9D31-7B7D-45DD-9796-121EACAC0427}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F5C5A76-28E7-41EF-BFA7-C5C69DAE88C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F5C5A76-28E7-41EF-BFA7-C5C69DAE88C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F5C5A76-28E7-41EF-BFA7-C5C69DAE88C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F5C5A76-28E7-41EF-BFA7-C5C69DAE88C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
